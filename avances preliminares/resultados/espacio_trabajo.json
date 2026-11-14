@@ -1,0 +1,34 @@
+{
+  "n_muestras": 300000,
+  "n_sobre_mesa": 185157,
+  "alcance_radial_max": 478.299009150111,
+  "z_min": 5.00168379100532,
+  "z_max": 558.2803163427282,
+  "boca_entrega": {
+    "total": 729,
+    "alcanzables": 729,
+    "porcentaje": 100.0,
+    "sing_min": 103.49012371447844,
+    "margen_limite_deg": 23.382364805617584
+  },
+  "boca_traslado": {
+    "total": 729,
+    "alcanzables": 681,
+    "porcentaje": 93.4156378600823,
+    "sing_min": 122.67721376365607,
+    "margen_limite_deg": 5.599951800433014
+  },
+  "plato": {
+    "total": 81,
+    "alcanzables": 81,
+    "porcentaje": 100.0,
+    "sing_min": 122.3644114214867,
+    "margen_limite_deg": 11.945290508444817
+  },
+  "boca_entrega_beta_pm10": {
+    "-1": 100.0,
+    "0": 100.0,
+    "1": 100.0
+  },
+  "sing_nube_p5": 8.15507079786264
+}
